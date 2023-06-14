@@ -1,8 +1,0 @@
-#!/bin/bash
-read -p "Filename:" fname
-touch $fname
-echo "#!/bin/bash" > $fname
-vi $fname
-./fname
-./script
-./lonzy
