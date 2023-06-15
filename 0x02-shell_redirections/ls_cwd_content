@@ -1,0 +1,18 @@
+total 64
+drwxr-xr-x 2 root root   329 Jun 14 19:59 .
+drwxr-xr-x 5 root root    74 Jun 14 09:17 ..
+-rwxr--r-- 1 root root    32 Jun 13 10:44 0-hello_world
+-rwxr--r-- 1 root root    28 Jun 14 16:12 1-confused_smiley
+-rw-r--r-- 1 root root 12288 Jun 14 03:13 .1-confused_smiley.swp
+-rwxr--r-- 1 root root    28 Jun 14 16:15 2-hellofile
+-rwxr--r-- 1 root root    39 Jun 14 16:18 3-twofiles
+-rwxr--r-- 1 root root    29 Jun 14 16:26 4-lastlines
+-rwxr--r-- 1 root root    29 Jun 14 19:39 5-firstlines
+-rwxr--r-- 1 root root    40 Jun 14 19:42 6-third_line
+-rwxr--r-- 1 root root    99 Jun 14 19:55 7-file
+-rwxr--r-- 1 root root    36 Jun 14 19:59 8-cwd_state
+-rw-r--r-- 1 root root    12 Jun 14 19:55 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Jun 14 19:59 ls_cwd_content
+-rw-r--r-- 1 root root    27 Jun 13 08:44 README.md
+-rwxr--r-- 1 root root   131 Jun 14 15:57 script.sh
+-rwxr--r-- 1 root root   103 Jun 14 16:08 togit.sh
